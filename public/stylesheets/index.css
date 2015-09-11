@@ -1,0 +1,30 @@
+
+
+
+body {
+	background-color:green;
+}
+.box {
+	width:320px;
+	height:200px;
+ 	border:1px solid orange; 
+	margin:100px auto;
+	
+}
+p {
+	font-size:20px;
+	display:inline-block;
+	line-height:50px;
+	margin:0 7px;
+}
+p input {
+	margin:0px;
+	padding:0px;
+}
+.in-infor>input {
+	float:left;
+	margin-left:25%;
+	margin-top:8px;
+	background-color:blue;
+	border:blue;
+}
